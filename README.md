@@ -208,18 +208,8 @@ Gx = [-1  0  1]    Gy = [-1 -2 -1]
 
 ## 🖼️ Exemplos Visuais
 
-### Antes e Depois - Equalização de Histograma
-```
-Imagem Original (baixo contraste) → Imagem Equalizada (alto contraste)
-[Histograma concentrado]          → [Histograma distribuído]
-```
+![image](https://github.com/user-attachments/assets/99ab6a1c-f07d-42c2-bb80-16c7d7599a1d)
 
-### Detecção de Bordas - Comparação
-```
-Roberts: Detecção rápida, menos precisão
-Prewitt: Balanceamento médio
-Sobel:   Alta precisão, maior custo computacional
-```
 
 ### Fatiamento de Bits
 ```
