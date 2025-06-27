@@ -1,0 +1,84 @@
+# Arquivos e pastas do Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Arquivos de usuário
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.usertasks
+*.sln.docstates
+
+# Arquivos de build
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Arquivos temporários do ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+packages/
+*.nupkg
+# Arquivos de propriedades NuGet
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# Arquivos específicos do projeto
+TestResults/
+[Tt]est[Rr]esult*/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Imagens e arquivos de teste (opcional, descomente se necessário)
+# *.jpg
+# *.png
+# *.bmp
+# *.gif
